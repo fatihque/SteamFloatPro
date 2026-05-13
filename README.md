@@ -2,6 +2,10 @@
 Steam Float Pro V1.4
 Steam Float Pro is a high-performance browser extension (Userscript) designed to enhance the Steam Community Market experience for CS2 players and traders. It provides real-time access to item Float Values, Paint Seeds, and advanced filtering tools directly on the market listing page.
 
+📥 Install
+You can download the extension from the Chrome Web Store:
+[**Chrome Web Store - Steam Float Pro**](https://chromewebstore.google.com/detail/steam-float-pro/nliogofnagangpihfdoafgbkkjhkmeml?authuser=0&hl=tr)
+
 Key Features
 📊 Instant Float Visualization: View precise float values (up to 14 decimal places) and a color-coded wear bar directly under every item name.
 
