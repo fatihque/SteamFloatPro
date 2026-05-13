@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "Steam Float Pro",
+    "description": "Extension name"
+  },
+  "sortBy": {
+    "message": "SORT BY:",
+    "description": "Sorting header"
+  },
+  "sortLow": {
+    "message": "Low Float ↓",
+    "description": "Sort low float button"
+  },
+  "sortHigh": {
+    "message": "High Float ↑",
+    "description": "Sort high float button"
+  },
+  "filterPlaceholder": {
+    "message": "e.g., float < 0.15",
+    "description": "Filter input placeholder"
+  },
+  "addFilter": {
+    "message": "Add Filter",
+    "description": "Add filter button"
+  },
+  "globalActive": {
+    "message": "Global Active",
+    "description": "Button text when filter is global"
+  },
+  "makeGlobal": {
+    "message": "Make Global",
+    "description": "Button to make filter global"
+  },
+  "sponsorText": {
+    "message": "🔥 SPONSORED OFFER",
+    "description": "Sponsor button text"
+  }
+}

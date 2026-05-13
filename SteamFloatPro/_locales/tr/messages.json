@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "Steam Float Pro",
+    "description": "Uzantı adı"
+  },
+  "sortBy": {
+    "message": "SIRALA:",
+    "description": "Sıralama başlığı"
+  },
+  "sortLow": {
+    "message": "Düşük Float ↓",
+    "description": "Düşük float sıralama butonu"
+  },
+  "sortHigh": {
+    "message": "Yüksek Float ↑",
+    "description": "Yüksek float sıralama butonu"
+  },
+  "filterPlaceholder": {
+    "message": "Örn: float < 0.15",
+    "description": "Filtre girişi için yer tutucu"
+  },
+  "addFilter": {
+    "message": "Filtre Ekle",
+    "description": "Filtre ekle butonu"
+  },
+  "globalActive": {
+    "message": "Global Aktif",
+    "description": "Filtre global olduğunda buton metni"
+  },
+  "makeGlobal": {
+    "message": "Global Yap",
+    "description": "Filtreyi global yap butonu"
+  },
+  "sponsorText": {
+    "message": "🔥 SPONSORLU TEKLİF",
+    "description": "Sponsor buton metni"
+  }
+}
